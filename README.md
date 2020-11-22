@@ -6,9 +6,9 @@ Analytics on temperature data for the months of June and December to help an upc
 ## Analysis Results
 Based on the temperature findings for June and December, the following can be observed
 
-![June Temperatures](June plot.png)       
+![June Temperatures](https://github.com/Kesh0326/surfs_up/blob/main/June%20plot.png)       
 
-![December Temperatures](December plot.png)
+![December Temperatures](https://github.com/Kesh0326/surfs_up/blob/main/December%20plot.png)
 
 - The average temperature observed during the month of June is 75F while the average temperature for December is lower at 71F indicating that June is a warmer month and may be considered more conducive for surfing and milkshakes
 - The maximum recorded temperature in June is 85F while the maximum temperature for December is 83F indicating there isn't that significant of a difference in maximum temperature across both months 
